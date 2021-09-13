@@ -49,12 +49,12 @@ Sus herramientas son variadas y de fácil uso, considerando que su agrupación s
 
 
 | Ionic |  Descripción                       |
-| :-------- :-------------------------------- |
+| :--------| :-------------------------------- |
 | `Ionic CLI`       |**6.17.1** |
 | `@angular/cli`       |**10.0.8** |
 
 | Capacitor |  Descripción                       |
-| :-------- :-------------------------------- |
+| :-------- |:-------------------------------- |
 | `Capacitor CLI`       |**2.4.3** |
 | `@capacitor/android`       |**2.4.3** |
 
