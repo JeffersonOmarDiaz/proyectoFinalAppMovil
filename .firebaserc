@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "gasdomi",
+    "tiendaApp": "tienda-7bd46"
+  },
+  "targets": {}
+}
